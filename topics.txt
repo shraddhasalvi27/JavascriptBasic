@@ -1,0 +1,43 @@
+Hello World program
+ Intro to variables
+ Rules for naming variables
+ Let keyword
+ Const keyword 
+ String Indexing
+ Useful string methods
+ typeof , string to number, number to string conversion
+ String Concatenation
+ Template Strings
+ undefined null bigint
+ Booleans and comparison Operators
+ if else , truthy and falsy values
+ Ternary operator
+ And Or Operator
+ Nested If else
+ if elseif 
+ Switch statement
+ While loop
+ While loop example
+ Intro to for loop
+ for loop examples
+ Break and Continue Keyword
+ Do while loop
+ Intro to arrays
+ push pop shift unshift
+ Primitive vs reference data types
+ Clone array, concat, spread operator
+ For loop in array
+ Use const for creating arrays
+ While loop in array
+ For of loop
+ For in loop
+ Array destructuring
+ Intro to objects
+ Dot vs bracket notation
+ How to iterate objects
+ Computed Properties
+ Spread operator in array and objects
+ Object destructuring
+ Object inside array
+ Nested destructuring
+ Function declaration
