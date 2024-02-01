@@ -7,10 +7,12 @@ console.log(typeof firstName ,firstName);
 let LastName = null;
 console.log(typeof LastName);
 
- LastName ="Shraddha";
+LastName ="Shraddha";
 console.log(typeof LastName, LastName);
 
 console.log(typeof null);
+let Name;
+console.log(Name);
 
 
 // BigInt

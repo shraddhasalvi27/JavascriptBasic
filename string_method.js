@@ -2,7 +2,8 @@ console.log('stringMethods');
 // trim() method
 let firstName = "     harshit";
 
-firstName = firstName.trim();
+firstName = firstName.trim(); 
+//trim method remove spaces
 console.log(firstName.length);
 
 // toUperCase() method

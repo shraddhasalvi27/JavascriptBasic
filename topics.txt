@@ -1,27 +1,27 @@
-Hello World program
- Intro to variables
- Rules for naming variables
- Let keyword
- Const keyword 
- String Indexing
- Useful string methods
- typeof , string to number, number to string conversion
- String Concatenation
- Template Strings
- undefined null bigint
- Booleans and comparison Operators
- if else , truthy and falsy values
- Ternary operator
- And Or Operator
- Nested If else
- if elseif 
- Switch statement
- While loop
- While loop example
- Intro to for loop
- for loop examples
- Break and Continue Keyword
- Do while loop
+Hello World program - done
+ Intro to variables - done
+ Rules for naming variables - done
+ Let keyword - done
+ Const keyword - done
+ String Indexing - done
+ Useful string methods - done
+ typeof , string to number, number to string conversion - done
+ String Concatenation - done
+ Template Strings - done
+ undefined null bigint - done
+ Booleans and comparison Operators - done
+ if else , truthy and falsy values - done
+ Ternary operator - done
+ And Or Operator - done
+ Nested If else - done
+ if elseif  - done
+ Switch statement -done
+ While loop - done
+ While loop example - done
+ Intro to for loop - done
+ for loop examples - done
+ Break and Continue Keyword - done
+ Do while loop - done
  Intro to arrays
  push pop shift unshift
  Primitive vs reference data types
