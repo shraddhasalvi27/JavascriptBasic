@@ -20,5 +20,3 @@ console.log(typeof obj);
 console.log(Array.isArray(fruits));
 console.log(Array.isArray(obj));
 
-
-// array indexing 
