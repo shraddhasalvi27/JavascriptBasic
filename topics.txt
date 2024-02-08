@@ -27,12 +27,12 @@ Hello World program - done
  Primitive vs reference data types - done
  Clone array, concat, spread operator - done
  For loop in array -done
- Use const for creating arrays -
- While loop in array
- For of loop
- For in loop
- Array destructuring
- Intro to objects
+ Use const for creating arrays - done
+ While loop in array - done
+ For of loop - done
+ For in loop - done
+ Array destructuring - done
+ Intro to objects 
  Dot vs bracket notation
  How to iterate objects
  Computed Properties
