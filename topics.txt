@@ -32,12 +32,53 @@ Hello World program - done
  For of loop - done
  For in loop - done
  Array destructuring - done
- Intro to objects 
- Dot vs bracket notation
- How to iterate objects
- Computed Properties
- Spread operator in array and objects
- Object destructuring
- Object inside array
- Nested destructuring
- Function declaration
+ Intro to objects - done
+ Dot vs bracket notation - done
+ How to iterate objects - done
+ Computed Properties - done 
+ Spread operator in array and objects - done
+ Object destructuring - done
+ Object inside array - done
+ Nested destructuring -done
+
+ day 2 
+ Function declaration - done
+ Function Expression - done
+ Arrow Functions - done
+ Hoisting intro ( later covered in detail) - done 
+ Functions inside functions - done
+ Lexical Scope - done
+ Block scope vs function scope - done
+ Default parameters - 
+ Rest parameters - target
+ Param destructuring - done
+ callback functions - done
+ Function returning function - done
+ forEach method - done
+ map method  
+ filter method
+ reduce method - Target.
+ sort method
+ find method
+ every method
+ some method
+ fill method
+ splice method
+ Iterables, array like objects
+ sets 
+ map data structure
+ clone using Object.assign
+ optional chaining
+ Create your own methods
+ This keyword
+ call, apply, bind methods
+ small warning
+ arrow functions and this
+ short syntax
+ create functions to create multiple objects
+ store methods in different object
+ solution using object.create
+ What is prototype
+ Use prototype
+ New keyword
+

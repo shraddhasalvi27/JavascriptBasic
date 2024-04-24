@@ -21,4 +21,3 @@ const obj1 = {
   const newObject = { ...obj2, ...obj1, key69: "value69" };
   const newObject = { ...["item1", "item2"] };
   const newObject = { ..."abcdefghijklmnopqrstuvwxyz" };
-  console.log(newObject);
