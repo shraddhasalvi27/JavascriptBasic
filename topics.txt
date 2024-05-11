@@ -67,25 +67,25 @@ Hello World program - done
  map data structure - done
  clone using Object.assign - done
  optional chaining - done
- Create your own methods
- This keyword
- call, apply, bind methods
- small warning
- arrow functions and this
- short syntax
- create functions to create multiple objects
- store methods in different object
- solution using object.create 
- What is prototype
- Use prototype
- New keyword
- hasOwnProperty
- more about prototype
- class keyword
- class practice and extends keyword
- super keyword
- same method in base class
- getters and setters
- static methods and properties
+ Create your own methods - done
+ This keyword - done
+ call, apply, bind methods - done
+ small warning - done
+ arrow functions and this - done
+ short syntax - done
+ create functions to create multiple objects - done
+ store methods in different object - done (included in above file)
+ solution using object.create  - done
+ What is prototype - done
+ Use prototype - done
+ New keyword - done
+ hasOwnProperty - done
+ more about prototype - done
+ class keyword - done
+ class practice and extends keyword - done
+ super keyword - done
+ same method in base class - done
+ getters and setters - done
+ static methods and properties - done
 
 
