@@ -39,9 +39,7 @@ Hello World program - done
  Spread operator in array and objects - done
  Object destructuring - done
  Object inside array - done
- Nested destructuring -done
-
- day 2 
+ Nested destructuring -don
  Function declaration - done
  Function Expression - done
  Arrow Functions - done
@@ -55,20 +53,20 @@ Hello World program - done
  callback functions - done
  Function returning function - done
  forEach method - done
- map method  
- filter method
- reduce method - Target.
- sort method
- find method
- every method
- some method
- fill method
- splice method
- Iterables, array like objects
- sets 
- map data structure
- clone using Object.assign
- optional chaining
+ map method - done 
+ filter method - done
+ reduce method - done 
+ sort method - done
+ find method - done
+ every method - done 
+ some method - done
+ fill method - done
+ splice method - done
+ Iterables, array like objects - done
+ sets - done
+ map data structure - done
+ clone using Object.assign - done
+ optional chaining - done
  Create your own methods
  This keyword
  call, apply, bind methods
@@ -77,8 +75,17 @@ Hello World program - done
  short syntax
  create functions to create multiple objects
  store methods in different object
- solution using object.create
+ solution using object.create 
  What is prototype
  Use prototype
  New keyword
+ hasOwnProperty
+ more about prototype
+ class keyword
+ class practice and extends keyword
+ super keyword
+ same method in base class
+ getters and setters
+ static methods and properties
+
 
