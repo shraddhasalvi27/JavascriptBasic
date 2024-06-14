@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+<body>
+
+    <!-- objects are the collection of properties and properties arein the form of key value pairs  -->
+    <!-- a properties value can be functions in which case they are called as a methods     -->
+    <script>
+        /*
+        const product = {
+            name:'socks',
+            price:1090
+        };
+        console.log(product);
+        console.log(typeof product);
+        console.log(product.name);
+
+        console.log(product.price);
+        product.name = 'cotton-socks'; //it will chane the value
+        console.log(product);
+        product.newproperty = true;
+        console.log(product);
+        delete product.newproperty;
+        */
+
+        // auto-boxing
+
+        console.log('hello'.length);
+        console.log('hello'.toUppercase());
+        const object1 ={
+            message:'hello';
+        };
+
+        const object2 = object1; //copying by reference
+        // even though in object we sue const we can change the object
+        object1.message = 'Good job';
+        const object3 = {
+            message:"hello"
+        }
+        console.log(object3 === object1);
+        //it will give me false as objects compares the references not the value
+        // above both functions have different references
+        console.log(object2 === object1);
+        // it will give me true as they both are refer at the same point
+
+        // shortcuts few
+        const object4 = {
+            message:'good job';
+            price:799;
+        }
+        // const message = object4.message;
+        const { message } = object4; //shortcut
+        const{ price } = object4;
+        console.log(message);
+        console.log(price);
+        // it is called the destructuringob the object
+
+        const object5 = {
+            // message:message //property and variable name
+             message   //shortcut as message is  a variable
+        
+            // method:function function1(){
+            //     console.log('method');
+            // } 
+            // there is shortcut for it
+            method(){
+                console.log('method');
+            }
+        }
+        console.log(object5);
+        console.log(localStorage.getItem('message'));
+        //local storgae onle support the strings
+        // JSON.stringify('score'); 
+        localStorage.setItem('score',JSON.stringify(score));
+        const score = JSON.parse(localStorage.getItem('score'));
+        const product2 = {
+            name:'shirt',
+            'deliver-time':'1day',
+            rating:{
+                stars:4.5,
+                count:87
+
+            },
+            fun:function function1(){
+                console.log('functions in side the object');
+            }
+        };
+        console.log(product2);
+        console.log(product2.name);
+        console.log(product2['name']);
+        console.log(product2['delivery-time']);
+        console.log(product2.rating.count);
+        product2.fun();
+        console.log(typeof console); //it will print the object
+
+        // json and localstorage are build in objects
+        // json does not support single quote
+        // json does not support the function
+        // reason - json can be understood by all the language 
+        // it used to send the data
+        // it is used to store the data
+        console.log(JSON.stringify(product2));
+        console.log(typeof JSON.stringify(product2));
+        const jsonString = JSON.stringify(product2);
+        console.log(JSON.parse(jsonString))
+
+        localStorage.setItem('message','hello');
+
+
+        // localstorage
+        // when we refresh the page local storage does not refresh the page 
+        // that is local storage available in the browser
+
+
+
+
+
+
+
+    </script>
+
+</body>

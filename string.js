@@ -32,9 +32,15 @@ typeof 'sometext'
 
 // escape chaarcter - escape character are useful
 'I\'m learning english'
-alert('some\ntext');
+alert('some\n  text');
 
 // template string third type using backslash
-`hello`
+`hello` 
+// interpolation - allow us to insert the value in string
+`Items (${1+1}):$${(2095+799)/100}`
+// above is the syntax of interpolation must right the $ sign
+`some
+text`
+// mutiline string feature is in the template string
 
 

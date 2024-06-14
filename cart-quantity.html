@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <button onclick="
+        console.log(`cart quantity : ${cartQuantity}`);
+    ">
+        show quantity
+    </button>
+    <button onclick="
+        cartQuantity = cartQuantity+1;
+        console.log(`cart quantity : ${cartQuantity}`);
+    ">
+        Add to cart
+    </button>
+    <button onclick="
+        cartQuantity = cartQuantity+2;
+        console.log(`cart quantity : ${cartQuantity}`);
+    ">+2</button>
+    <button onclick="
+    cartQuantity = cartQuantity+3;
+    console.log(`cart quantity : ${cartQuantity}`);
+    ">+3</button>
+    <button onclick="
+    cartQuantity = 0;
+    console.log('cart was reset');
+    ">Reset Cart</button>
+    <script>
+        let cartQuantity = 0;
+        // naming convention - camel case,pascal case,snake case,kabab case
+        const variable2;
+        variable2 = 3;
+        // variable that we dont change at that time use the const
+        var variable3 = 3;
+        console.log(typeof variable3);
+        const message = "hello"
+        console.log(typeof message);
+        // var is function-scoped and has been around since the early days of JavaScript.
+        // let is block-scoped and was introduced in ES6, offering a more predictable scoping mechanism.
+        // const is also block-scoped and is used to declare constants that cannot be reassigned after initialization.
+
+    </script>
+</body>
+</html>
