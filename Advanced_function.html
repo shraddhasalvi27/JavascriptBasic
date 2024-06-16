@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Advanced Function</title>
+
+
+    </head>
+    <body>
+
+        <button onclick="" class="js-button"> Click</button>
+        <script>
+            const eventListner = () => {
+                console.log('click');
+            };
+            const buttonElement = document.querySelector('.js-button');
+            buttonElement.addEventListner('click',() => {
+                console.log('click');
+            });
+            buttonElement.removeEventListner('clickjbklbeventListner);  //remove ad add are two inbuild functions
+            /*3
+            function greeting(){
+                console.log('hello');
+            }  //best practice to right function
+            greeting();
+            const num = 2;
+            const function1 = function greeting(){  //it do not support hoisting
+                console.log('hello2');
+            }
+            console.log(function1);
+            console.log(typeof function1);
+            // we can print fuctio by saving it in the variable
+            function1();
+            //hoisting - hoisting is declaring function before righting it
+            const object1 = {
+                name:shraddha,
+                fun:function greeting(){  //as we are calling function using fun no need to right function
+                    console.log("hello world");  
+                }
+            }
+            object1.fun(); //function inside the object is method
+            function display(param){
+                console.log(param)
+
+            } //passing a value into the function
+            display(2);
+            function run(param){
+
+            }
+            run(function(){
+                console.log('hello4');
+            });  //it is called the callback funstion
+            */
+            setTimeout(function() {
+               console.log('timeout')
+               console.log("timeout2")
+            },3000);  //this function will run after a 3000 time that is 3 sec
+
+            console.log('next line'); //this line will print first and above line will print after beacause of time setting that is asynchronous
+            //    Asynchronous code 
+            // settimeout is onle asynchronous code
+            setInterval(function(){
+                console.log('Interval');
+            },3000)  //it will run the function every three seconds
+
+            console.log('heyy shraddha');
+            const regularFunction = function( param,param2){
+                console.log("hello");
+                return 5;
+            }
+
+            const arrowFunction = (param) => {
+                console.log("hello");
+                return 5;
+            };
+            arrowFunction();
+
+            const oneParam = param => {
+                console.log(param+1);
+
+            };
+            oneParam(2);
+            //arrow function work same as regular function
+
+            const oneLine = () => 2+2; //when arrow function have one line,we can remove curly bracket and return
+            console.log(oneLine());
+            //when to use arrow function in object and functoin inside function ,original function- do not support hoisting
+
+        </script>
+
+  
+    </body>
+</html>
