@@ -1,0 +1,5 @@
+1)javascript Basic. - all about language,console,alert syntax.
+2)Number and maths 
+-> operators,round function,precedance,dealing with floats,use of brackets
+3)string
+-> 

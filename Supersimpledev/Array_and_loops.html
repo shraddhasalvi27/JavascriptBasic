@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Array And loops 
+        </title>
+
+    </head>
+    <body>
+        <script>
+            /*
+            const myArray = [10,20,30];
+            console.log(myArray[0]);
+            myArray[0] = 80;
+            console.log(myArray);
+            [1,'hello',true,{name:socks},[1,2]];
+            console.log(typeof[1,2]);
+            console.log(Array.isArray([1,2]));
+            console.log(myArray.length);
+            // array is a object
+            myArray.push(100);  //it will push vakue at the end
+            console.log(myArray);
+            myArray.splice(0,1) //it will remove value at the given position
+            */
+           let i =1;
+           while(i<=5){
+               console.log(i);
+               i=i+1;
+            }
+            for(let i =1;i<=5;i++){
+                console.log(i);
+            }
+            const todoList =[
+                'make dinner',
+                'make dinner',
+                'make dinner'
+        ]
+            for(let index =0; index<todoList.length; index++){
+                console.log(todoList[index]);
+
+            }
+
+            const nums = [1,1,3];
+            let total = 0;
+            for(let i=0;i< nums.lemngth;i++){
+                const num = nums[i];
+                total+=num;
+            }
+            console.log(total);
+
+            const numsDoubled = [];
+            for(let i =0;i<nums.length;i++){
+                const num = nums[i];
+                numsDoubled.push(num*2);
+            }
+            console.log(numsDoubled);
+
+
+
+
+        </script>
+
+    </body>
+</html>

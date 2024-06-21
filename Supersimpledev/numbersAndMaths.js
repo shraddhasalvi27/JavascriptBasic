@@ -1,7 +1,7 @@
-// operators same divide,multiply,add,substract
+// operators divide,multiply,add,substract
 // order of operations are called precedance of operator
 // bodmas rule
-// proiority - brackets,*,/,+,-
+// priority - brackets,*,/,+,-
 
 // calculate the percentage
 

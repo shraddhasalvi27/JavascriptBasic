@@ -1,8 +1,8 @@
 // string is a Text
 // Syntax
 // string conacatination
-'some'+'text'
-typeof 'sometext'
+'some'+'text';
+typeof 'sometext';
 // automatic type conversion example is as below
 
 'hello'+3
@@ -22,7 +22,7 @@ typeof 'sometext'
 // Items (3):              $49.89
 
 // print the above line
-'Items(' (1+1+1) ') : $' + (2095+799)/100
+'Items(' + (1+1+1) + ') : $' + (2095+799)/100
 
 // three ways to type string
 'hello'
@@ -42,5 +42,22 @@ alert('some\n  text');
 `some
 text`
 // mutiline string feature is in the template string
+
+// JavaScript slice() Method
+// JavaScript substring() Method
+// JavaScript substr() Method
+// JavaScript replace()
+// JavaScript replaceAll()
+// JavaScript toUpperCase()
+// JavaScript toLowerCase()
+// JavaScript concat() Method
+// JavaScript trim() Method
+// JavaScript trimStart() Method
+// JavaScript trimEnd() Method
+// JavaScript padStart() Method
+// JavaScript padEnd() Method
+// JavaScript charAt() Method
+// JavaScript charCodeAt() Method
+// JavaScript split() Method
 
 
