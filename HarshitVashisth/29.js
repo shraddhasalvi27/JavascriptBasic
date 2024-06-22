@@ -1,7 +1,14 @@
 const array = ["item1", "item2", "item3"];
 
+// array destructuring is a concise way in javascript to extract element from an array and assign it to the vaiable
+
 // Basic destructuring
 const [first, second, third] = array;
+
+const array = [1,2,3];
+const [first,sec,third] = array;
+console.log(first);
+
 
 console.log(first);  // Output: "item1"
 console.log(second); // Output: "item2"
@@ -22,6 +29,8 @@ const array = ["item1", "item2", "item3", "item4"];
 
 // Using rest pattern
 const [first, second, ...rest] = array;
+
+const [first,sec,third ,...rest] = array;
 
 console.log(first);  // Output: "item1"
 console.log(second); // Output: "item2"

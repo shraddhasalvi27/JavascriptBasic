@@ -1,6 +1,7 @@
 // The spread operator (...) can be used to create a shallow copy of an array
 let array1 = [1,2,3,4];
 let array2 = [...array1];
+let array2 = [...array1];
 
 let array1 = ["item1", "item2"];
 let array2 = [...array1]; // Cloning array1

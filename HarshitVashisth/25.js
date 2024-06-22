@@ -18,5 +18,6 @@ array1.push("item3");
 console.log("after pushing element to array 1");
 console.log("array1", array1);
 console.log("array2", array2);
-
+array2.push("item4");
+console.log(array1);
 //item3 will get add to both the array

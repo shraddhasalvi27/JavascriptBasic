@@ -33,10 +33,10 @@ Do while loop - done
 Arrays in JavaScript - done
 Intro to arrays - done
 Push pop shift unshift - done
-Primitive vs reference data types
-Clone array & spread operator
-For loop
-use const for creating arrays
+Primitive vs reference data types - done
+Clone array & spread operator - done
+For loop - 
+use const for creating arrays - done
 While loop in array
 For of loop
 For in loop

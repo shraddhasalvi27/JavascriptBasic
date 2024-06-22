@@ -24,3 +24,9 @@ for (const index in array) {
     console.log('for...in loop:', array[index]);
 }
 
+for(const item of array){
+    console.log('item',item);
+}
+for(const index in array){
+    console.log(array[index]);
+}

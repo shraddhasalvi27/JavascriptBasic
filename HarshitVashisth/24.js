@@ -25,6 +25,7 @@ console.log(removedElement);
 // Returns: The removed element.
 let firstelement = fruits.shift();
 console.log(fruits);
+console.log(firstelement);
 
 // unshift
 // Purpose: Adds one or more elements to the beginning of an array.

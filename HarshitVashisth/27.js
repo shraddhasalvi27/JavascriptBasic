@@ -1,4 +1,4 @@
-// for loop in array
+//use const creating for array
 
 const array = ["item1", "item2", "item3"];
 console.log(array); // Output: ["item1", "item2", "item3"]
