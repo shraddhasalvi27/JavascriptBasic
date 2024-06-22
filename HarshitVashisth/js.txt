@@ -35,12 +35,12 @@ Intro to arrays - done
 Push pop shift unshift - done
 Primitive vs reference data types - done
 Clone array & spread operator - done
-For loop - 
+For loop - done
 use const for creating arrays - done
-While loop in array
-For of loop
-For in loop
-Array destructuring
+While loop in array - done
+For of loop - done
+For in loop - done
+Array destructuring - done
 
 
 Objects in JavaScript
