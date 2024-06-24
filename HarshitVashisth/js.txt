@@ -16,7 +16,7 @@ Null, undefined, BigInt, typeof - done
 Booleans and Comparison Operator - done
 Truthy and Falsy Values - done
 If else statement - done
-Ternary Operator - 
+Ternary Operator - done 
 && || operator - done
 Nested if else  - done
 If elseif else - done
@@ -43,15 +43,15 @@ For in loop - done
 Array destructuring - done
 
 
-Objects in JavaScript
-Intro to objects
-Dot vs Bracket Notation
-Iterate objects
-Computed properties
-Spread operator in objects
-Object Destructuring
-Objects inside Array
-Nested Destructuring
+* Objects in JavaScript *  
+Intro to objects - done
+Dot vs Bracket Notation - done
+Iterate objects -done
+Computed properties -done
+Spread operator in objects - done
+Object Destructuring - done
+Objects inside Array -done
+Nested Destructuring - done
 
 Functions in JavaScript
 Function declaration
