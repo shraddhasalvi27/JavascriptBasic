@@ -53,19 +53,19 @@ Object Destructuring - done
 Objects inside Array -done
 Nested Destructuring - done
 
-Functions in JavaScript
-Function declaration
-Function Expression
-Arrow Functions
-Function declarations are hoisted  (covered in great detail , later in this course)
-Function inside function
-Lexical Scope
-Block Scope Vs Function Scope
-Default Parameters
-Rest Parameters
-Parameter Destructuring
-Very brief intro to callback functions(covered in great detail , later in this course)
-Functions returning Functions
+* Functions in JavaScript *
+Function declaration - done
+Function Expression - done
+Arrow  function - done
+Function declarations are hoisted  (covered in great detail , later in this course) - done
+Function inside function - done
+Lexical Scope - done
+Block Scope Vs Function Scope - done 
+Default Parameters  - done
+Rest Parameters - done
+Parameter Destructuring -done
+Very brief intro to callback functions(covered in great detail , later in this course)-done
+Functions returning Functions - done
 
 Very Important Array Methods
 Foreach method
