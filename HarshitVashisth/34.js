@@ -20,3 +20,6 @@ console.log(obj3) //here name will be only one key no two similar key can be in 
 //key according to the INDEX
 const newObj3 = {..."abc"};
 console.log(newObj3);//{0: 'a', 1: 'b', 2: 'c'}
+
+
+

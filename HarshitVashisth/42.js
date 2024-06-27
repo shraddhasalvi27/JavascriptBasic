@@ -1,5 +1,5 @@
 //function inside function
-const app =() =>{
+const app = () =>{
     console.log("inside app");
 
     const num = () => {

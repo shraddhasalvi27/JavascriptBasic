@@ -68,28 +68,28 @@ Very brief intro to callback functions(covered in great detail , later in this c
 Functions returning Functions - done
 
 Very Important Array Methods
-Foreach method
-Map method
-Filter
-Reduce
-Sort
-Find
-Every
-Some
-Fill method
-Splice method
-
+Foreach method -done
+Map method - done
+Filter - done
+Reduce - 
+Sort - done
+Find - done
+Every -done
+Some -done
+Fill method - done
+Splice method - done
 
 More useful things 
-Iterables
-Sets
-Maps
+
+Iterables -done
+Sets -done
+Maps -done
 Object.assign
 Optional chaining
 
 
 Object Oriented JavaScript / Prototypal Inheritance
-Methods
+Methods 
 This keyword, Window object
 Call , apply and bind method
 Some warnings
@@ -118,6 +118,7 @@ Hoisting
 Are let and const are hoisted ? What is a reference Error ? 
 Function execution context
 Scope chain and lexical environment
+
 Closures
 Intro to closures
 Closure example 1

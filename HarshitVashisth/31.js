@@ -4,7 +4,7 @@
 let dog ={
     name:"rocky",
     age:90,
-    breed:"geramn schephard",
+    breed:"german schephard",
     "full name":"rocky raut"
 }
 

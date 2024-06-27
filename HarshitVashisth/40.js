@@ -33,3 +33,14 @@ const num2 = () => console.log("here is drana");
 
 
 
+function hello(num){
+    console.log("heyy")
+    return num;
+}
+const hell = function hello(num){
+    console.log("heyy");
+    return num;
+}
+
+const hell = (num)=> num;
+hell(89);
