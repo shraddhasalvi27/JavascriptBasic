@@ -89,27 +89,27 @@ Optional chaining
 
 
 Object Oriented JavaScript / Prototypal Inheritance
-Methods 
-This keyword, Window object
-Call , apply and bind method
-Some warnings
-This inside arrow functions
-Short syntax for methods
-Factory functions & discuss some memory related problems
-First solution to that problem
-Why that solution isn’t that great
-What is __proto__ , [[prototype]]
-What is prototype
-Use prototype
-New keyword
-Constructor function with new keyword
-More discussion about proto and prototype
-Class keyword
-Example using class keyword
-Super keyword
-Method overriding
-Getters and setters
-Static methods and properties  - target
+Methods - done
+This keyword, Window object -done
+Call , apply and bind method -done
+Some warnings -done
+This inside arrow functions - done
+Short syntax for methods - done
+Factory functions & discuss some memory related problems - done
+First solution to that problem - done
+Why that solution isn’t that great - done
+What is __proto__ , [[prototype]] - done 
+What is prototype - done
+Use prototype - done
+New keyword -done
+Constructor function with new keyword -done
+More discussion about proto and prototype -done
+Class keyword - done
+Example using class keyword -done
+Super keyword -done
+Method overriding -done
+Getters and setters - done 
+Static methods and properties  - done
 
 How JavaScript Works
 Global Execution context
