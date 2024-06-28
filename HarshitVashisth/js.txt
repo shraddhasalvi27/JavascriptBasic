@@ -111,19 +111,19 @@ Method overriding -done
 Getters and setters - done 
 Static methods and properties  - done
 
-How JavaScript Works
-Global Execution context
+How JavaScript Works done most of explained how js work ,variable store in memoery
+global Execution context 
 This and window in global execution context
 Hoisting
 Are let and const are hoisted ? What is a reference Error ? 
 Function execution context
 Scope chain and lexical environment
 
-Closures
-Intro to closures
-Closure example 1
-Closure Example 2
-Closure Example 3
+Closures - done
+Intro to closures - done
+Closure example 1 - done
+Closure Example 2 -done
+Closure Example 3 - done
 
 DOM Tutorial
 
