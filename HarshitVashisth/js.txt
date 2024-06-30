@@ -127,23 +127,23 @@ Closure Example 3 - done
 
 DOM Tutorial
 
-HTML and CSS Crash course ( Around 30-40 minutes)
-Async vs defer
-Select elements using id
-querySelector
-textContent & innerText
-Change the styles of elements using js
-Get and set attributes
-Select multiple elements and loop through them
-innerHTML
-Deeply understand dom tree, root node , element nodes, text nodes
-classList
-Add new elements to page
-Create elements
-Insert adjacent elements
-Clone nodes
-More methods to add elements on page
-How to get the dimensions of the element
+HTML and CSS Crash course ( Around 30-40 minutes) -done
+Async vs defer - done 
+Select elements using id - done
+querySelector - done
+textContent & innerText - done
+Change the styles of elements using js -done
+Get and set attributes -done
+Select multiple elements and loop through them - done
+innerHTML - done
+Deeply understand dom tree, root node , element nodes, text nodes - done
+classList -done
+Add new elements to page  - done
+Create elements -done
+Insert adjacent elements-done
+Clone nodes  - done
+More methods to add elements on page - done
+How to get the dimensions of the element -done
 
 Events
 Intro to events
