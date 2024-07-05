@@ -71,7 +71,7 @@ Very Important Array Methods
 Foreach method -done
 Map method - done
 Filter - done
-Reduce - done
+Reduce - 
 Sort - done
 Find - done
 Every -done
@@ -84,7 +84,7 @@ More useful things
 Iterables -done
 Sets -done
 Maps -done
-Object.assign 
+Object.assign
 Optional chaining
 
 
