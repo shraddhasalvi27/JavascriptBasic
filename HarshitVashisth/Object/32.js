@@ -15,6 +15,7 @@ let person = {
 console.log((Object.keys(person)));   //it will return an array of keys
 
 console.log((Object.keys(person))); //['name', 'age', 'hobby']  <-- array
+console.log((Object.keys(person)));
 
 //FOR-OF-loop
 //FOR-OF loop cannot work on object so convert object to ARRAY

@@ -14,3 +14,8 @@ array1.push("item3");
 console.log("after pushing element to array1");
 console.log("array1", array1); // Output: array1 ["item1", "item2", "item3"]
 console.log("array2", array2); // Output: array2 ["item1", "item2"]
+
+
+
+//shallow copy only rises the issue in case of a nested objects or arrays
+

@@ -1,6 +1,6 @@
 //call apply and bind method 
 const user1 = {
-    name:harshit,
+    name:"harshit",
     age:90,
     height:90,
     about:function(hobby,sirname){
@@ -9,10 +9,11 @@ const user1 = {
 }
 
 const user2 = {
-    name:shraddha,
+    name:"shraddha",
     age:78,
     height:78
 }
+
 
 user1.about.call(user2,"football","salavi");
 //here user1's function I am using it to print user2 value and here this will replace with user2 object

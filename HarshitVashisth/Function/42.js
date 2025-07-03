@@ -10,8 +10,10 @@ const app = () =>{
 
     console.log("function inside function");
     num();
-    add(8,9);
+    console.log(add(8,9));
 }
 
 app();
+
+
 

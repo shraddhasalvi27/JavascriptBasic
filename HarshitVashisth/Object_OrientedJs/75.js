@@ -22,7 +22,7 @@ console.log(obj2.key1);
 //now it will give me key1 value
 console.log(obj2);
 
-// __proto__ ===[[prototype]] in ofiifcial document
+// __proto__ ===[[prototype]] in official document
 //there is more thing prototype in js but it is different from above proto
 
 console.log(obj2.__proto__) //it will give me the obj1 that is obj1 is proto of obj2

@@ -12,3 +12,4 @@ todoList.innerHTML = "<li> teach students</li>";
 
 // when we want to change the innerhtml complete then use innerHTML
 
+

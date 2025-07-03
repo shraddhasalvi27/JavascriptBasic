@@ -8,7 +8,7 @@ console.log(num);
 //console.log(num[2]);
 //no guarented order
 
-const num = new Set();
+const num1 = new Set();
 num.add(1);
 num.add(3);
 num.add(9);
@@ -18,7 +18,7 @@ num.add([1,2,3]);
 
 // .has method
 if(num.has(1)){
-    consolelog("yes");
+    console.log("yes");
 }else{
     console.log("false");
 }
@@ -34,3 +34,9 @@ const arr = [1,2,3,4,5,6,,6,6,6];
 const SetNew = new Set(arr);
 console.log(SetNew);
 console.log(arr);//it will not affect original array
+
+
+const a = new Set();
+a.add(1);
+a.add(2);
+console.log(a);

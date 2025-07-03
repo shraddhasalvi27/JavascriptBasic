@@ -11,4 +11,4 @@ if ('hello') {
 
 // Comparison Operators: Used to compare values, resulting in a Boolean (true or false).
 // Booleans: Represent true or false values, used extensively in control flow statements.
-// Truthy and Falsy: Certain values are implicitly converted to true or false in Boolean contexts.
+// Truthy and Falsy: Certain values are implicitly converted to true or false in Boolean contexts. 

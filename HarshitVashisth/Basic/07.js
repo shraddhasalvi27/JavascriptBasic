@@ -9,9 +9,10 @@ let name = "       sHraddha           ";
 name = name.trim();
 console.log(name);
 
-console.log(name.toUppercase());
+console.log(name.toUpperCase());
 
-console.log(name.toLowercase());
+console.log(name.toLowerCase());
+
 
 console.log(name.slice(1,5));
 
@@ -23,7 +24,7 @@ console.log(typeof(age));  //number
 console.log(typeof n);   //string
 let d = " " + age;
 console.log(typeof(d));  //string
-console.log(num(d));
+console.log(Number(d));
 
 age = String(age);
 console.log(typeof age);
@@ -63,4 +64,20 @@ let newstringg2 = string3 +" " +string4;
 
 
 
+
+
+
+let s1 = "shraddha   ";
+let s2 = "   Salavi";
+console.log(s1.trim())
+console.log(s2.toUpperCase());
+console.log(s2.toLowerCase());
+
+
+let s3 = s1+s2;
+console.log(s3);
+
+// let age = "90"
+// age = Number(age);
+// age = String(age);
 

@@ -7,14 +7,14 @@
 5 == "5"; //it will print true
 'hello' == 'hello';
 
-5 ==="5"; //it will print false it ia strict comparison
+5 ==="5"; //it will print false it is a strict comparison
 5 === 5 //it will print true
 
 5 != "5"; //it will print false
 5 !== '5' //it will print true
 
-// boolean
-// boolean is data type that store either one value r true or false
+// booleans z
+// boolean is data type that store either one value  true or false
 const decision = 16 > 80;
 const isequal = "hello" ==="hello";
 const isAdult = 'shraddha' === "shraddha";

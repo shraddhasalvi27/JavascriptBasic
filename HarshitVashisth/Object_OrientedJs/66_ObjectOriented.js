@@ -4,7 +4,7 @@
 const student = {
     name:"shraddha",
     age:90,
-    school:swx,
+    school:"swx",
     height:890,
     about: function(){
         // console.log(`my name is ${firstname} and ${age} is age`);//it will not work in the function
@@ -41,6 +41,8 @@ const obj3 ={
     about:property
 }
 
-obj1.property();
-obj2.property();
-obj3.property();
+obj1.about();
+obj2.about();
+obj3.about();
+
+

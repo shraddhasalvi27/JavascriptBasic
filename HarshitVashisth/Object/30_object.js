@@ -22,3 +22,18 @@ console.log(person["name"]);
 let boy = { naam:"pathuuu", saal:18 , hobbies:["cricket","tennis","balling"]};
 //adding key value pair
 boy.relation = "single";
+console.log(boy.hobbies[1]);
+
+console.log(boy);
+
+let data = {
+    name:"shraddha",
+    age:90,
+    date:"9078",
+
+}
+
+console.log(data.name);
+data.education = "btech";
+console.log(data["name"]);
+console.log(data);

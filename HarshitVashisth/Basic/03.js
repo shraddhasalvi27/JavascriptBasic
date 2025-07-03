@@ -1,4 +1,4 @@
-//there are few rukes about variable
+//there are few rules about variable
 //cannot use spaces while declarartion
 //can only use $ and _ while declaring variable
 var _name =" shraddha";
@@ -8,3 +8,4 @@ var $name = "shraddha";
 
 var name_sir = "shraddha" //snakecase righting
 var NameSir = "shraddha"  //camelCase righting
+ 

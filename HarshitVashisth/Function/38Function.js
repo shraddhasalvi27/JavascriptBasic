@@ -20,3 +20,9 @@ function add(num1,num2){
 
 const num2 = add(7,8);
 console.log(num2);
+
+function hbd(){
+    console.log("heyyy");
+}
+
+hbd();

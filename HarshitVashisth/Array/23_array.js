@@ -13,3 +13,6 @@ console.log(mixed);
 console.log(num[1]);
 
 // reference type and value type are two main concepts 
+
+let arr = [1,2,'banana']
+

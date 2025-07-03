@@ -1,6 +1,6 @@
 //let is a keyword which use to declare the variable
 
-// properties - redeclaration,block Scope,reassignment,no hoisting
+// properties - no redeclaration,block Scope,reassignment,no hoisting
 
 let a = 67;
 let a = 67;

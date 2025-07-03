@@ -17,3 +17,7 @@ const info = {}
 info[key1] = value1;
 info[key2] = value2;
 console.log(info);
+
+const info = {};
+info[key1] = value1;
+info[key2] = value2;

@@ -46,7 +46,10 @@ function demoVar() {
     var a = 30; // re-declaration is allowed
     console.log(a); // 30
 }
+console.log(b)
 
 demoVar();
 console.log(typeof a); // undefined (a is not defined globally)
+
+
 

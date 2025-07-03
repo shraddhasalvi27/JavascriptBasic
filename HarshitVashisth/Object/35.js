@@ -19,4 +19,3 @@ console.log(var2);
 const{bandName,...restProps} = band; //I can right anything at the place of restProps
 console.log(restProps);
 
-

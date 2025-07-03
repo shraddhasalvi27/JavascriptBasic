@@ -20,3 +20,14 @@ myFunc(myFunc1);
 // Callbacks are commonly used for asynchronous operations, such as reading files, making HTTP requests, or handling user events.
 
 // They allow you to ensure that a certain piece of code is executed only after a specific task is finished.
+
+function add(a){
+    console.log(a);
+    console.log("shraddha");
+    a(1,2);
+}
+function num(num1,num2){
+    console.log(num1+num2);
+}
+add(num);
+

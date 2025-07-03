@@ -14,7 +14,7 @@ const ans = OuterFunction();
 console.log(ans); //it will print function innerfunction
 ans();  //it will print hello world
 
-function printFullName(firstName,LastName){
+function printFullName(firstname,LastName){
     function printName(){ //here printNmae function will return with its lexical environment variabl along with two variables
         console.log(firstname+" " +LastName);
 

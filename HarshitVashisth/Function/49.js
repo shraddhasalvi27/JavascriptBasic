@@ -14,3 +14,13 @@ function myFunc1(){
 }
 const ans1 = myFunc1();
 ans1();
+
+function hello(){
+    function wow(name){
+        console.log(name);
+    }
+    return wow;
+}
+
+const ans2 = hello();
+ans2("shraddha");

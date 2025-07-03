@@ -10,6 +10,7 @@ More about variable - done
 Let - done
 Const - done
 String Indexing - done
+
 Useful string methods - done 
 Template Strings - done
 Null, undefined, BigInt, typeof - done
@@ -164,7 +165,7 @@ Asynchronous JavaScript
 Is Javascript a synchronous or asynchronous programming language ? -done
 SetTimeout() -done
 SetTimeout() with 0 millisecond - done
-Callback Queue - done
+Callback Queue - done 
 SetInterval and create little project with setInterval -done 
 Understand callbacks in general - done
 Callbacks in asynchronous programming  - done
@@ -184,7 +185,7 @@ Intro to Ajax, HTTP Request - done
 XHR requests - done
 Error handling in XHR requests - done
 XHR request Chaining 
-Promisifying XHR requests and chaining using then method - done
+Promisifying XHR requests and chaining using then method - done 
 Fetch API -done
 Error Handling in Fetch API  - done
 Consume Promises with async and Await - done

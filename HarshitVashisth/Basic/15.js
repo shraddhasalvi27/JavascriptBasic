@@ -59,7 +59,7 @@ if (score >= 90) {
 
 // example 2
 let winningNumber = 19;
-let userGuess = +prompt("Guess a number");
+let userGuess = prompt("Guess a number");
 
 if(userGuess === winningNumber){
     console.log("Your guess is right!!");

@@ -5,7 +5,7 @@
 // mouse click events we are going to study here
 // there are three ways to add event are as follows
 // onclick = "console.log('you clicked me')"
-const btn = document.querySelector(".btn-headline");
+const btn = document.querySelector(".btn-headline")
 // console.log(btn); it will log btn
 // console.dir(btn);//it will show me all properties
 

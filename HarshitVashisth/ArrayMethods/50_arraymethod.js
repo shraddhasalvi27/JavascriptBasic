@@ -17,7 +17,6 @@ numbers.forEach(function add(number){
 });
 numbers.forEach(number => console.log(number));
 numbers.forEach(number =>number*number);
-
 const fruits = ["apple", "banana", "cherry"];
 
 fruits.forEach((fruit, index, arra4) => {  
@@ -34,3 +33,11 @@ numbers.forEach((number, index, array) => {
 });
 
 console.log(numbers); // Outputs: [2, 4, 6, 8, 10]
+
+const nums = [1,2,3,4,5];
+
+function power(x){
+    console.log(x**x);
+}
+
+nums.forEach(power);

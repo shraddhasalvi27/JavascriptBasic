@@ -1,7 +1,7 @@
 //null and undefined
 
 //undefined
-let name;   //I can declare as var or let but cannt declare as const ,in case const we have to declare and initialize at the same time
+let name;   //I can declare as var or let but cannt declare as const ,in case const we have to initialize and assign at the same time
 console.log(typeof name);
 // it will right undefined
 name = "shraddha";
@@ -9,7 +9,7 @@ console.log(name);
 
 const age;
 console.log(age);
-//here it will throw error as varable is not initialized in the case of const I have to initialise the variable
+//here it will throw error as variable is not initialized in the case of const I have to initialise the variable
 let firstname;
 console.log(typeof firstname); //it will print undefined as type is not defined
 firstname = "shraddha";
@@ -25,7 +25,7 @@ myVariable = "harshit";
 console.log(myVariable,typeof myVariable);
 
 console.log(typeof null);  //it will print object
-//I have to remeber it is a error,bug in javascript
+//I have to remember it is a error,bug in javascript
 
 //BigInt
 

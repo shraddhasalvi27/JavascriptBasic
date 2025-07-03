@@ -1,5 +1,5 @@
-//map method 
-// basic difference between map and foreach method is map returns array and foreach do not return an array
+// //map method 
+// // basic difference between map and foreach method is map returns array and foreach do not return an array
 
 const numbers = [1,2,3,4,5];
 
@@ -68,3 +68,12 @@ const usersWithGender = users
     .filter(user => user.gender.startsWith("male"))
     .map(user => `${user.firstName} (${user.gender})`);
 console.log(usersWithGender); // Outputs: ["parth (male)", "harshit (malesig)", "rakes (malemig)"]
+
+
+const numb1 = [7,8,9,0];
+
+function mul(x){
+ return x*x;
+}
+const mul1 = numb1.map(mul);
+console.log(mul1);

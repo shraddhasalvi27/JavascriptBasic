@@ -21,3 +21,4 @@ console.log("array2", array2);
 array2.push("item4");
 console.log(array1);
 //item3 will get add to both the array
+

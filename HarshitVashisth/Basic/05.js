@@ -2,7 +2,7 @@ console.log("all about const");
 //const is a keyword use to declare the variable.
 
 
-//key difference between conat and let are const cannot be redeclare
+//key difference between const and let are const cannot be redeclare
 //properties - block scope,assignment ,hoisting,immutability binding,re-declaration not allowed
 
 // assignment
@@ -49,8 +49,6 @@ function demoConst() {
 }
 
 demoConst();
-
-
 
 
 
