@@ -19,3 +19,5 @@ console.log("array2", array2); // Output: array2 ["item1", "item2"]
 
 //shallow copy only rises the issue in case of a nested objects or arrays
 
+// to create a deep copy the ways are structuredclone
+// JSON.parse(JSON.stringify(array))

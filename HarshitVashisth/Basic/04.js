@@ -3,7 +3,7 @@
 // properties - no redeclaration,block Scope,reassignment,no hoisting
 
 let a = 67;
-let a = 67;
+// let a = 67;
 //it will thorw the syntaxerror
 
 
